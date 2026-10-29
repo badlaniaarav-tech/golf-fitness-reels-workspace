@@ -1,0 +1,20 @@
+# Creators the Analyst watches for outliers. Structure is studied, words are never copied.
+# TODO: replace with 5 to 15 accounts you actually want to learn from. Handles below are placeholders to swap.
+
+creators:
+  - handle: "@replace_with_golf_coach"
+    platform: instagram
+    tier: core
+    notes: "Short swing-fix reels with before/after."
+  - handle: "@replace_with_golf_creator"
+    platform: tiktok
+    tier: adjacent
+    notes: "On-course story reels."
+  - handle: "@replace_with_fitness_creator"
+    platform: instagram
+    tier: core
+    notes: "Session recap reels, one cue per video."
+  - handle: "@replace_with_golf_fitness_coach"
+    platform: youtube
+    tier: aspirational
+    notes: "Golf mobility and speed training."

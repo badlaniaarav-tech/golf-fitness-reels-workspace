@@ -1,0 +1,25 @@
+# The ONLY place numbers may come from. Add your own stats with a source (an app screenshot, a launch monitor, a logbook).
+# kind: case_study, client_win, faq, objection, process, build, story, stat
+# TODO: replace the examples with real entries.
+
+items:
+  - id: example-driver-speed
+    kind: stat
+    title: "Driver club head speed"
+    summary: "Replace with your real number and where it was measured."
+    numbers:
+      - value: "0 mph"
+        label: "club head speed"
+        source: "launch monitor, date"
+    clientConsent: true
+    tags: [golf, speed]
+  - id: example-squat
+    kind: stat
+    title: "Back squat working weight"
+    summary: "Replace with your real number and your logbook as the source."
+    numbers:
+      - value: "0 lb"
+        label: "top set"
+        source: "training log, date"
+    clientConsent: true
+    tags: [workout, strength]

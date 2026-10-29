@@ -1,0 +1,55 @@
+# The basics about your brand. Every agent reads this file.
+# TODO lines are yours to fill. Lines starting with # are notes; AttentionOS ignores them.
+
+name: "Golf & Fitness Reels"
+
+# TODO: tweak to how you'd say it.
+oneLiner: "Short golf and workout reels: real swings, real sessions, one useful takeaway each."
+
+# TODO: your website if you have one
+# website: "https://example.com"
+
+timezone: "America/New_York"   # TODO: change if you are not on US Eastern
+
+# TODO: your real handles
+handles:
+  instagram: "@yourhandle"
+  tiktok: "@yourhandle"
+  youtube: "@yourhandle"
+
+# No product yet: the goal is growth. Add offers here later (coaching, programs, gear links).
+offers: []
+
+cta:
+  primary: follow
+  utmContentPrefix: ""
+
+# Mostly reach content while growing an audience.
+funnelMix:
+  tofu: 70
+  mofu: 25
+  bofu: 5
+
+bannedPhrases:
+  - "game changer"
+  - "crushing it"
+  - "no excuses"
+  - "beast mode"
+  - "in today's video"
+
+hashtagPool:
+  - "#golf"
+  - "#golfswing"
+  - "#golftips"
+  - "#golflife"
+  - "#golfreels"
+  - "#golfpractice"
+  - "#drivingrange"
+  - "#workout"
+  - "#gymmotivation"
+  - "#fitnessjourney"
+  - "#strengthtraining"
+  - "#golffitness"
+  - "#mobility"
+  - "#athletetraining"
+  - "#trainlikeanathlete"
